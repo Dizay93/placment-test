@@ -1,0 +1,13 @@
+Plain Java
+1. What is the difference between an abstract class and an interface ? the first have abstract methods ,the second not
+2. What is an abstract class? What is a final class ?abstract class cant be instantiated class but final class cant be extended
+3. What is the "transient" keyword used for ?POO
+OO
+1. What is the difference between a class and an object ?class is logical ,object is physical--object is an instance of class and we create object from classes
+2. Can you implement OO without classes ?no
+3. What are the basic principles of the OO paradigm (SOLID) ?Single Responsibility Principle-Open Closed Principle-Liskov's Substitution Principle-Interface Segregation Principle-Dependency Inversion Principle
+4. What is polymorphism ? is the principe for classess to have dependencies on each other 
+5. What is Demeter's law?
+Design Patterns
+1. What's a Singltone?To Create an object we dont need to initialise every time
+2. What's a Factory pattern?.when we have a context of an abstrat type that can be applicated on types being created by a factory like the exemple of vehicule(abstract type) and voiture,moto(concrete types)
